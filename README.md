@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=say4838)](https://solved.ac/say4838)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSWYoon&show_icons=true&theme=radical)
 
+# Edutaions
+Conputer Science & Engineering, Pusan National University (Republic of Korea)
