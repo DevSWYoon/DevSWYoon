@@ -33,22 +33,23 @@ Here are some ideas to get you started:
 # 🎓 Edutaions 
 **2019 ~ 2025(expected)** - Bachelor of Computer Science & Engineering, Pusan National University (Republic of Korea)
 
-# 🎖️Awards
-
-**2023.05** - 2023 부산대학교 프로그래밍 대회, 동상
-
-**2024.02** - 2024 PNU Coding Challenge, 우수상
-
 # 💻 Experiences
 
-**2024.01 ~ 2024.02** - 삼성중공업 스마트야드연구센터, 인턴
+**2024.01 ~ 2024.02** - Intern, Smart Yard Research Center, Samsung Heavy Industries
 
-**2024.03 ~ currnet** - 부산대학교 미래 네트워크 및 통신 연구실, 인턴
+**2024.03 ~ current** - Intern, Future Network and Communications Laboratory, Pusan National University
 
-**2024.03 ~  2024.06(exptected)** - 부산대학교 인터넷과 웹 기초, TA
+**2024.03 ~ 2024.06 (expected)** - Teaching Assistant, Internet and Web Fundamentals, Pusan National University
+
+# 🎖️ Awards
+
+**2023.05** - Bronze Medal, Pusan National University Programming Contest 2023
+
+**2024.02** - Excellence Award, 2024 PNU Coding Challenge
+
 
 # 🏃 Activities
-**2024.05** - 2024 부산대학교 프로그래밍 대회, 출제 및 운영
+**2024.05** - Problem Setter, Pusan National University Programming Contest 2024
   - Div 2. B [(아~파트 아파트)](https://www.acmicpc.net/problem/31797)
   - Div 1. C & Div 2. E [(바이러스 공격)](https://www.acmicpc.net/problem/31791)
 
