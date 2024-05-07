@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 # 🎖️ Awards
 
-**2023.05** - Bronze Medal, Pusan National University Programming Contest 2023
+**2023.05** - Bronze Medal(5th Place), Pusan National University Programming Contest 2023
 
-**2024.02** - Excellence Award, 2024 PNU Coding Challenge
+**2024.02** - Excellence Award(5th Place), 2024 PNU Coding Challenge
 
 
 # 🏃 Activities
