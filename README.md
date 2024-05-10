@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB.svg?style=for-the-badge&logo=freertos&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-# 🎓 Edutaions 
+# 🎓 Edutaion
 **2019 ~ 2025(expected)** - Bachelor of Computer Science & Engineering, Pusan National University (Republic of Korea)
 
-# 💻 Experiences
+# 💻 Experience
 
 **2024.01 ~ 2024.02** - Intern, Smart Yard Research Center, Samsung Heavy Industries
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 **2024.02** - Excellence Award(5th Place), 2024 PNU Coding Challenge
 
 
-# 🏃 Activities
+# 🏃 Activity
 **2024.05** - Problem Setter, Pusan National University Programming Contest 2024
   - Div 2. B [(아~파트 아파트)](https://www.acmicpc.net/problem/31797)
   - Div 1. C & Div 2. E [(바이러스 공격)](https://www.acmicpc.net/problem/31791)
