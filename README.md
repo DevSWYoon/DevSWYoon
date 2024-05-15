@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 ## 🏃 Activities
 **2023.05** - Participant, The 13th KSME(The Korean Society of Mechanical Engineers) Student Creative Design Competition
+ - Topic: IoT-Based Mechanical Storm Drain System
 
 **2023.09 ~ current** - Member, PULSE Algorithm Club, Pusan National University
 
