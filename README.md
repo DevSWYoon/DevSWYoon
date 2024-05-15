@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB.svg?style=for-the-badge&logo=freertos&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-## 🎓 Edutaion
+## 🎓 Education
 **2019 ~ 2025(expected)** - Bachelor of Computer Science & Engineering, Pusan National University (Republic of Korea)
 
 ## 💻 Experiences
