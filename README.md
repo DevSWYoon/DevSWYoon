@@ -1,4 +1,4 @@
-## 🙋‍♂️ Robotics & Embedded S/W Engineer
+## 👋 Robotics & Embedded S/W Engineer
 I am interested in robotics and embedded software engineering, focusing on classic dynamics, numerical analysis, and Real-Time Operating Systems (RTOS).
 <!--
 **DevSWYoon/DevSWYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
+## 🔨 Skills
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-007ACC.svg?style=for-the-badge&logo=verilog&logoColor=white)
@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 ## 🎓 Education
 **2019 ~ 2025(expected)** - Bachelor of Computer Science & Engineering, Pusan National University (Republic of Korea)
 
+## 🎖️ Awards
+
+**2023.05** - Bronze Medal(5th Place), Pusan National University Programming Contest 2023
+
+**2024.02** - Excellence Award(5th Place), 2024 PNU Coding Challenge
+
 ## 💻 Experiences
 
 **2024.01 ~ 2024.02** - Intern, Smart Yard Research Center, Samsung Heavy Industries
@@ -41,14 +47,7 @@ Here are some ideas to get you started:
 
 **2024.03 ~ 2024.06 (expected)** - Teaching Assistant, Internet and Web Fundamentals, Pusan National University
 
-## 🎖️ Awards
-
-**2023.05** - Bronze Medal(5th Place), Pusan National University Programming Contest 2023
-
-**2024.02** - Excellence Award(5th Place), 2024 PNU Coding Challenge
-
-
-## 🏃 Activities
+## 🔎 Activities
 **2023.05** - Participant, The 13th KSME(The Korean Society of Mechanical Engineers) Student Creative Design Competition
  - Topic: IoT-Based Mechanical Storm Drain System
 
