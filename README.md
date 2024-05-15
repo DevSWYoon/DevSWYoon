@@ -1,4 +1,4 @@
-# 🙋‍♂️ Robotics & Embedded S/W Engineer
+## 🙋‍♂️ Robotics & Embedded S/W Engineer
 I am interested in robotics and embedded software engineering, focusing on classic dynamics, numerical analysis, and Real-Time Operating Systems (RTOS).
 <!--
 **DevSWYoon/DevSWYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Skills
+## Skills
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-007ACC.svg?style=for-the-badge&logo=verilog&logoColor=white)
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB.svg?style=for-the-badge&logo=freertos&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-# 🎓 Edutaion
+## 🎓 Edutaion
 **2019 ~ 2025(expected)** - Bachelor of Computer Science & Engineering, Pusan National University (Republic of Korea)
 
-# 💻 Experiences
+## 💻 Experiences
 
 **2024.01 ~ 2024.02** - Intern, Smart Yard Research Center, Samsung Heavy Industries
 
@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 
 **2024.03 ~ 2024.06 (expected)** - Teaching Assistant, Internet and Web Fundamentals, Pusan National University
 
-# 🎖️ Awards
+## 🎖️ Awards
 
 **2023.05** - Bronze Medal(5th Place), Pusan National University Programming Contest 2023
 
 **2024.02** - Excellence Award(5th Place), 2024 PNU Coding Challenge
 
 
-# 🏃 Activities
+## 🏃 Activities
 **2023.05** - Participant, The 13th KSME(The Korean Society of Mechanical Engineers) Student Creative Design Competition
 
 **2023.09 ~ current** - Member, PULSE Algorithm Club, Pusan National University
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   - Div 2. B [(아~파트 아파트)](https://www.acmicpc.net/problem/31797)
   - Div 1. C & Div 2. E [(바이러스 공격)](https://www.acmicpc.net/problem/31791)
 
-# 📊 Status
+## 📊 Status
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=say4838)](https://solved.ac/say4838)
 
