@@ -9,6 +9,9 @@ Hello! I'm Seok Won Yoon, a undergraduate student specializing in robotics and e
 
 **Technical**<br> RTOS, Embedded Systems, Robotics, RTLS (Real-Time Location Systems), Fly-By-Wire Systems
 
+**Non-Academic**<br>
+Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Financial Engineering
+
 ## 🔨 Skills
 
 ### Languages
