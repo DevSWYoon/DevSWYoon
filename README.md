@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 Robotics & Embedded S/W Engineer
-Hello! I'm Seok Won Yoon, undergraduate student specializing in robotics and embedded software engineering. For more about my work and interests, feel free to check out my [blog](https://velog.io/@dev_sw_yoon) or contact me via email at [aicsay4838@gmail.com](mailto:aicsay4838@gmail.com).
+Hello! I'm Seok Won Yoon, an undergraduate student specializing in robotics and embedded software engineering. For more about my work and interests, feel free to check out my [blog](https://velog.io/@dev_sw_yoon) or contact me via email at [aicsay4838@gmail.com](mailto:aicsay4838@gmail.com).
 
 ## 🌟 Interests
 
@@ -52,21 +52,20 @@ Developing Real-Time Operating Systems for robotic applications.</span>
 
 ## 🔎 Activities
 
-**Participant at The 13th KSME (The Korean Society of Mechanical Engineers) Student Creative Design Competition** <br>
+**Participant, The 13th KSME (The Korean Society of Mechanical Engineers) Student Creative Design Competition** <br>
 2023.05<br>
 <span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Topic: IoT-Based Mechanical Storm Drain System</span>
 
-**Member at PULSE Algorithm Club, Pusan National University**<br>
+**Member, PULSE Algorithm Club, Pusan National University**<br>
 2023.09 ~ current<br>
 
-**Problem Setter at Pusan National University Programming Contest 2024** <br>
+**Problem Setter, Pusan National University Programming Contest 2024** <br>
 2024.05<br>
 <span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Div 2. B - [아~파트 아파트](https://www.acmicpc.net/problem/31797)<br>
 Div 1. C & Div 2. E - [바이러스 공격](https://www.acmicpc.net/problem/31791)</span>
 
 ## 📊 Status
-<a href="https://solved.ac/say4838">![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=say4838)</a><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSWYoon&show_icons=true&theme=radical)
+<a href="https://solved.ac/say4838">![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=say4838)</a>
 
 
 </div>
