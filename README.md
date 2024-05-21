@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 Robotics & Embedded S/W Engineer
-Hello! I'm Seok Won Yoon, a undergraduate student specializing in robotics and embedded software engineering. For more about my work and interests, feel free to check out my [blog](https://velog.io/@dev_sw_yoon) or contact me via email at [aicsay4838@gmail.com](mailto:aicsay4838@gmail.com).
+Hello! I'm Seok Won Yoon, undergraduate student specializing in robotics and embedded software engineering. For more about my work and interests, feel free to check out my [blog](https://velog.io/@dev_sw_yoon) or contact me via email at [aicsay4838@gmail.com](mailto:aicsay4838@gmail.com).
 
 ## 🌟 Interests
 
