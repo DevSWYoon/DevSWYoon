@@ -50,6 +50,11 @@ Developing Real-Time Operating Systems for robotic applications.</span>
 **Teaching Assistant, Internet and Web Fundamentals, Pusan National University** <br>
 2024.03 ~ 2024.06<br>
 
+**Problem Setter, Pusan National University Programming Contest 2024** <br>
+2024.05<br>
+<span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Div 2. B - [아~파트 아파트](https://www.acmicpc.net/problem/31797)<br>
+Div 1. C & Div 2. E - [바이러스 공격](https://www.acmicpc.net/problem/31791)</span><br>
+
 ## 🔎 Activities
 
 **Participant, The 13th KSME (The Korean Society of Mechanical Engineers) Student Creative Design Competition** <br>
@@ -59,10 +64,6 @@ Developing Real-Time Operating Systems for robotic applications.</span>
 **Member, PULSE Algorithm Club, Pusan National University**<br>
 2023.09 ~ current<br>
 
-**Problem Setter, Pusan National University Programming Contest 2024** <br>
-2024.05<br>
-<span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Div 2. B - [아~파트 아파트](https://www.acmicpc.net/problem/31797)<br>
-Div 1. C & Div 2. E - [바이러스 공격](https://www.acmicpc.net/problem/31791)</span>
 
 ## 📊 Status
 <a href="https://solved.ac/say4838">![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=say4838)</a>
