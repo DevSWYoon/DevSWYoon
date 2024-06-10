@@ -59,7 +59,7 @@ Div 1. C & Div 2. E - [바이러스 공격](https://www.acmicpc.net/problem/3179
 
 **Participant, The 13th KSME (The Korean Society of Mechanical Engineers) Student Creative Design Competition** <br>
 2023.05<br>
-<span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Topic: IoT-Based Mechanical Storm Drain System</span>
+<span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Team Name: 99000000 (Mechanical Engineering and CSE Joint Team)<br>Topic: IoT-Based Mechanical Storm Drain System</span>
 
 **Member, PULSE Algorithm Club, Pusan National University**<br>
 2023.09 ~ current<br>
