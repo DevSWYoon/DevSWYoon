@@ -42,7 +42,7 @@ Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Fina
 2024.01 ~ 2024.02<br>
 <span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Researched RSSI-Based Indoor Positioning systems to enhance location accuracy within industrial environments.</span>
 
-**Intern, Future Network and Communications Laboratory, Pusan National University** <br>
+**Research Assistant, Future Network and Communications Laboratory, Pusan National University** <br>
 2024.03 ~ current<br>
 <span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Conducting research on UWB and Two-Way-Ranging based RTLS.<br>
 Developing Real-Time Operating Systems for robotic applications.</span>
