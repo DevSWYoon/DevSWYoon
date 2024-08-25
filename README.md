@@ -69,7 +69,7 @@ Div 1. C & Div 2. E - [바이러스 공격](https://www.acmicpc.net/problem/3179
 
 ## 🇰🇷 Military Service
 
-✈️ Republic of Korea Air Force<br> 2021.01 ~ 2022.10<br> <span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Served at Gimhae Air Base (5th Air Mobility Wing).</span>
+**Republic of Korea Air Force ✈️**<br> 2021.01 ~ 2022.10<br> <span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Served at Gimhae Air Base (5th Air Mobility Wing).</span>
 
 ## 📊 Status
 <a href="https://solved.ac/say4838">![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=say4838)</a>
