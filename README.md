@@ -23,7 +23,7 @@ Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Fina
 ### Technologies
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white) ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white)  ![FPGA](https://img.shields.io/badge/FPGA-FF9A00.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB.svg?style=for-the-badge&logo=freertos&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF0000.svg?style=for-the-badge&logo=yolo&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB.svg?style=for-the-badge&logo=freertos&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 
 ## 🎓 Education
 
