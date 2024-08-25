@@ -1,6 +1,3 @@
-Here's an updated version of your GitHub CV with the requested additions and reorganization:
-
----
 
 <div align="center">
 
