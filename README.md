@@ -1,3 +1,7 @@
+Here's an updated version of your GitHub CV with the requested additions and reorganization:
+
+---
+
 <div align="center">
 
 ## 👋 Robotics & Embedded S/W Engineer
@@ -7,7 +11,7 @@ Hello! I'm Seok Won Yoon, an undergraduate student specializing in robotics and 
 
 **Academic**<br> Algorithm, Classic Dynamics, Numerical Analysis
 
-**Technical**<br> RTOS, Embedded Systems, Robotics, RTLS (Real-Time Location Systems), Fly-By-Wire Systems
+**Technical**<br> RTOS, Embedded Systems, Robotics, RTLS (Real-Time Location Systems), Fly-By-Wire Systems, Computer Vision, AI
 
 **Non-Academic**<br>
 Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Financial Engineering
@@ -22,7 +26,7 @@ Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Fina
 ### Technologies
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white) ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white)  ![FPGA](https://img.shields.io/badge/FPGA-FF9A00.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB.svg?style=for-the-badge&logo=freertos&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB.svg?style=for-the-badge&logo=freertos&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF0000.svg?style=for-the-badge&logo=yolo&logoColor=white)
 
 ## 🎓 Education
 
@@ -36,7 +40,7 @@ Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Fina
 **Excellence Award(5th Place), 2024 PNU Coding Challenge** <br>
 2024.02<br>
 
-## 💻 Experiences
+## 💼 Work Experience
 
 **Intern, Smart Yard Research Center, Samsung Heavy Industries** <br>
 2024.01 ~ 2024.02<br>
@@ -49,6 +53,8 @@ Developing Real-Time Operating Systems for robotic applications.</span>
 
 **Teaching Assistant, Internet and Web Fundamentals, Pusan National University** <br>
 2024.03 ~ 2024.06<br>
+
+## 💻 Experience
 
 **Problem Setter, Pusan National University Programming Contest 2024** <br>
 2024.05<br>
@@ -64,9 +70,7 @@ Div 1. C & Div 2. E - [바이러스 공격](https://www.acmicpc.net/problem/3179
 **Member, PULSE Algorithm Club, Pusan National University**<br>
 2023.09 ~ current<br>
 
-
 ## 📊 Status
 <a href="https://solved.ac/say4838">![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=say4838)</a>
-
 
 </div>
