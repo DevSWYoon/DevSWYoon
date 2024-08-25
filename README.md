@@ -46,7 +46,7 @@ Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Fina
 **Research Assistant, Future Network and Communications Laboratory, Pusan National University** <br>
 2024.03 ~ current<br>
 <span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Conducting research on UWB and Two-Way-Ranging based RTLS.<br>
-Developing Real-Time Operating Systems for robotic applications.</span>
+Developing Real-Time Operating Systems for robotic applications.  <br> Led the project on developing an AI board-optimized vision-based worker access system.</span>
 
 **Teaching Assistant, Internet and Web Fundamentals, Pusan National University** <br>
 2024.03 ~ 2024.06<br>
