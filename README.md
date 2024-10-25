@@ -8,10 +8,10 @@ Hello! I'm Seok Won Yoon, an undergraduate student specializing in robotics and 
 
 **Academic**<br> Algorithm, Classic Dynamics, Numerical Analysis
 
-**Technical**<br> RTOS, Embedded Systems, Robotics, RTLS (Real-Time Location Systems), Fly-By-Wire Systems, Computer Vision, AI
+**Technical**<br> RTOS, Embedded Systems, Robotics, RTLS
 
-**Non-Academic**<br>
-Philosophy based on Friedrich Nietzsche and Stoicism, Cognitive Psychology, Financial Engineering
+**Outside-of-Major**<br>
+Cognitive Psychology
 
 ## 🔨 Skills
 
