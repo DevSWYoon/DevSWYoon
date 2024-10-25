@@ -45,7 +45,7 @@ Cognitive Psychology
 
 **Intern, Future Network and Communications Laboratory, Pusan National University** <br>
 2024.03 ~ current<br>
-<span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Led a project to develop a worker access verification system optimized for AI boards (Samsung Heavy Industries-PNU Collaborative Project).<br>Conducting research on UWB and Two-Way-Ranging based RTLS.<br>
+<span style="display: block; line-height: 1.1; font-size: 10px; margin-left: 40px;">Led a Samsung Heavy Industries-PNU Collaborative Project.<br>Conducting research on UWB and Two-Way-Ranging based RTLS.<br>
   </span>
 
 **Teaching Assistant, Internet and Web Fundamentals, Pusan National University** <br>
