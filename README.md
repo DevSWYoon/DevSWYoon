@@ -1,6 +1,9 @@
 
 <div align="center">
 
+## 👋 I'm SeokWon Yoon
+A passionate embedded and robotics developer.
+
 ## 🌟 Interests
 
 **Academic**<br> Algorithm, Classic Dynamics, Numerical Analysis
