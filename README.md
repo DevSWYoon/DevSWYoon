@@ -2,7 +2,7 @@
 <div align="center">
 
 ## 👋 I'm SeokWon Yoon
-A passionate embedded and robotics developer.
+A passionate embedded and robotics SW developer.
 
 ## 🌟 Interests
 
